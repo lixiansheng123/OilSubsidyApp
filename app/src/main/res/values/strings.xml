@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OilSubsidyApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_sunday">星期日</string>
+    <string name="str_monday">星期一</string>
+    <string name="str_tuesday">星期二</string>
+    <string name="str_wednesday">星期三</string>
+    <string name="str_thursday">星期四</string>
+    <string name="str_friday">星期五</string>
+    <string name="str_saturday">星期六</string>
+</resources>
